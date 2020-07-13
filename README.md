@@ -1,2 +1,3 @@
 # Simple-Bed-Pictures
-The Infomation of Simple Bed Pictures App
+
+`Simple Beb Pictures` is an image upload tool that upload image to your clould, such as github。Now it supports Chinese, English and Japanese.
